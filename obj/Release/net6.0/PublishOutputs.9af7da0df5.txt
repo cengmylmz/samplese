@@ -1,0 +1,11 @@
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Sample
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/appsettings.json
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Sample.dll
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Sample.deps.json
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Sample.runtimeconfig.json
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Sample.pdb
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Microsoft.OpenApi.dll
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/muhammetyilmaz/Projects/Sample/Sample/bin/Release/net6.0/publish/Swashbuckle.AspNetCore.SwaggerUI.dll

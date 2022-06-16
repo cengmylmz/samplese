@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nb9rXTBesXTEW2RQA/TOMN0wm0mjMM1XBQU8zwLWUxEdm7i62EVse7GDaNMTR70Igsc20HSfprLGvxNd0XBqOw==",
+  "success": true,
+  "projectFilePath": "/Users/muhammetyilmaz/Projects/Sample/Sample/Sample.csproj",
+  "expectedPackageFiles": [
+    "/Users/muhammetyilmaz/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/muhammetyilmaz/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/muhammetyilmaz/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/muhammetyilmaz/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/muhammetyilmaz/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/muhammetyilmaz/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
